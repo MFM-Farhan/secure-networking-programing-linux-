@@ -1,4 +1,4 @@
-# Systems and Networking Programming
+# Systems and Networking Programming - IE2012
 
 ## Overview
 This repository contains coursework and practical implementations for the **Systems and Networking Programming (IE2012)** module at **Sri Lanka Institute of Information Technology (SLIIT)**. The content covers various aspects of Linux environments, networking services, shell scripting, and security practices.
@@ -24,3 +24,31 @@ This repository contains coursework and practical implementations for the **Syst
 - Implementing firewall rules to control network traffic
 - Enabling strong encryption for secure remote access
 - Regular system updates and security patches
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MFM-Farhan/secure-networking-programing-linux-.git
+2. Navigate to the project directory:
+   ```bash
+   cd snp-ie2012
+   
+3. Follow the instructions in each section to set up and configure the necessary components.
+
+### Author
+
+M.F.M. Farhan  
+B.Sc. (Hons) in Information Technology, Specializing in Cybersecurity  
+Sri Lanka Institute of Information Technology (SLIIT)
+
+### License
+
+ This project is for educational purposes. Feel free to use and modify it.
+
+
+
+
+
+
+
+
