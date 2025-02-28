@@ -1,4 +1,4 @@
-# Systems and Networking Programming - IE2012
+# Systems and Networking Programming
 
 ## Overview
 This repository contains coursework and practical implementations for the **Systems and Networking Programming (IE2012)** module at **Sri Lanka Institute of Information Technology (SLIIT)**. The content covers various aspects of Linux environments, networking services, shell scripting, and security practices.
